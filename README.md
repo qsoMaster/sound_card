@@ -1,4 +1,4 @@
-# This card is defined as:
+# This card is defined as:ID 8086: 0808 Intel Corp.
 lsusb:
 
 Bus 002 Device 007: ID 8086: 0808 Intel Corp.
